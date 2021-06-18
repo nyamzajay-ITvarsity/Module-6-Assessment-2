@@ -207,7 +207,7 @@ ul.styled li {
 /* ********************************************************************* */
 
 #gallery img {
-    width: 120px;
+    width: 140px;
     margin: 12px;
     -moz-transition: -moz-transform 0.5s ease-in;
 	-webkit-transition: -webkit-transform 0.5s ease-in;
@@ -220,10 +220,7 @@ ul.styled li {
 	-o-transform: scale(3);
  }
 
- .bmw1 {
-     text-align: center;
-     float: left;
-     padding: 0;
-     display: inline;
-     
+ #gallery p {
+    margin: 12px;
+    letter-spacing: 00.1em;
  }
